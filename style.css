@@ -1,0 +1,47 @@
+* {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  body {
+    background: #ffe6f0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  img {
+    width: 180px;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    color: #ff4d88;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+  }
+  
+  button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  #yesBtn {
+    background-color: #ff4d88;
+    color: white;
+  }
+  
+  #noBtn {
+    background-color: #ddd;
+  }
