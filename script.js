@@ -23,13 +23,10 @@ yesBtn.addEventListener("click", () => {
       <img src="Image/tien 🥰.jpeg" alt="yay" style="width:180px;"
       />
       <h1 style="color:#ff4d88;">YAYYY!! 💖💖💖</h1>
-      <p>You just made me the happiest person 🥰</p>
-         <img 
-        src="image/hug.gif" 
-        alt="hug" 
-        style="width:220px;"
-        animation: bounce 1s infinite;"
-      />
+      <p style="font-size: 70px; font-weight: 1400;">
+      You just made me the happiest person 🥰 </p>
+
+
     </div>
   `;
 });
