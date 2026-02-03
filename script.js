@@ -20,10 +20,11 @@ yesBtn.addEventListener("click", () => {
       justify-content:center;
       background:#ffe6f0;
       text-align:center;">
-      <img src="Image/tien 🥰.jpeg" alt="yay" style="width:180px;"
+      <img src="Image/tien 🥰.jpeg" alt="yay" style="width:360px;"
       />
-      <h1 style="color:#ff4d88;">YAYYY!! 💖💖💖</h1>
-      <p style="font-size: 70px; font-weight: 1400;">
+      <h1 style="color:#ff4d88;font-size: 60px; font-weight: 600">
+      YAYYY!! 💖💖💖</h1>
+      <p style="font-size: 60px; font-weight: 600;">
       You just made me the happiest person 🥰 </p>
 
 
